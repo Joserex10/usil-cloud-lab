@@ -1,0 +1,6 @@
+.env
+.env.*
+*.tar
+*.zip
+evidence/
+deployment.json
