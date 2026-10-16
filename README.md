@@ -33,7 +33,7 @@ El inicio de sesión por navegador evita copiar tokens al código. Para un fork,
 En Blitz Cloud: elegir imagen pública, seleccionar `1.0.0`, puerto `80`, sin base de datos ni volúmenes, y publicar. Para fijar esta entrega se puede usar la referencia exacta:
 
 ```text
-joserex10/usil-cloud-lab:1.0.0@sha256:bc4b3283756d605f92ed60495aae7f25c5a23fd245ba723caaad848a4ab3c106
+joserex10/usil-cloud-lab:1.0.0@sha256:82eb61324a9b89b4d2215ccf4e8493d18f00c4a01418aed5784fda1d0925a176
 ```
 
 ## Archivos
